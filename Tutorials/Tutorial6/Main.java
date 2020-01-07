@@ -1,4 +1,4 @@
-package Tutorials.Tutorial6;
+package Tutorial6;
 
 public class Main{
 
