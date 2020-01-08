@@ -1,4 +1,4 @@
-package Tutorial7;
+package Tutorials.Tutorial7;
 
 import java.io.File;
 import java.io.FileNotFoundException;

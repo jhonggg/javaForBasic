@@ -1,4 +1,4 @@
-package Tutorial9;
+package Tutorials.Tutorial9;
 
 public class Main {
     public static int greatestCommonFactor(int a, int b, int c){

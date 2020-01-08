@@ -1,4 +1,4 @@
-package Tutorial17;
+package Tutorials.Tutorial17;
 
 public class Person {
 

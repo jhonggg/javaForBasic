@@ -1,4 +1,4 @@
-package Tutorial17;
+package Tutorials.Tutorial17;
 
 import java.util.Scanner;
 
@@ -37,7 +37,7 @@ public class Main {
 
             students[i] = new Student(name, age, height, weight, studentID, grade, gpa);
         }
-
+        scan.close();
         for(int i = 0; i < number; i++){
             students[i].show();
         }
